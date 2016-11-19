@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Kedos
+Comment=Login into Kedos
+Exec=gnome-session --session=kedos
+TryExec=/System/Applications/systemsession
+Icon=
+Type=Application
+DesktopNames=Kedos
+X-Ubuntu-Gettext-Domain=gnome-session-3.0

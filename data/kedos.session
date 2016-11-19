@@ -1,0 +1,4 @@
+[GNOME Session]
+Name=Kedos
+RequiredComponents=/System/Applications/systemsession;
+DesktopName=Kedos

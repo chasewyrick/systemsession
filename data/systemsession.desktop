@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=System Session
+Comment=Starts the session
+Icon=view-refresh
+Exec=/System/Applications/systemsession
+Terminal=false
+Type=Application
+Categories=System
+OnlyShowIn=Kedos
+NoDisplay=true
+X-GNOME-Autostart-Notify=true
+X-GNOME-AutoRestart=false
+X-GNOME-Autostart-Phase=Panel
